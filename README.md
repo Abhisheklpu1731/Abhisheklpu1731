@@ -9,13 +9,12 @@
 
 - 🤝 I’m looking for help with **PYTHON DEVELOPER**
 
-- 💬 Ask me about **c++ ,PYTHON, web-(fron_hand)**
+- 💬 Ask me about **c++ ,PYTHON, web_(front-end)**
 
 - 📫 How to reach me **yadavabhishekkumar41@gmail.com**
 
 - ⚡ Fun fact **HAVING skills to make you smile ☺**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
