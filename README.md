@@ -18,9 +18,8 @@
 <p align="left">
 </p>
 
-<p> <img align="center" scr=""
 
-
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">Languages and Tools:</h3>
