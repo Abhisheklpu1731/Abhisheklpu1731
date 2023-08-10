@@ -9,8 +9,8 @@
 
 - 🤝 I’m looking for help with **PYTHON DEVELOPER**
 
-- 💬 Ask me about **c++ ,PYTHON, web_(front-end)**
-
+- 💬 Ask me about **c++ ,PYTHON, web-dev,flutter,react-native.
+  
 - 📫 How to reach me **yadavabhishekkumar41@gmail.com**
 
 - ⚡ Fun fact **computer cant smiles but i can make them laugh**
