@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, coders Abhi here ♥ </h1>
 <h3 align="center">LEARNER with PASSION of DEVELOPING 💻 🖐</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ab/68/e6/ab68e6d38452d78ac98687865281c5c8.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheklpu1731&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheklpu1731" /> </p>
+ </p>
 
 - 🔭 I’m currently working with **JAVA PROJECTS**
 
@@ -17,9 +16,6 @@
 
 <p align="left">
 </p>
-
-
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">Languages and Tools:</h3>
