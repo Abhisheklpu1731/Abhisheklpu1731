@@ -1,4 +1,4 @@
-![Cool GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Ffire-loader--2603712270124588%2F&psig=AOvVaw3j-NjU73RCMySuheZlrBcn&ust=1720419216076000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjG5pmjlIcDFQAAAAAdAAAAABAK)
+![Cool GIF](https://cdn.dribbble.com/users/563824/screenshots/2651843/media/bc8cac4be7adf52ffcd6a806788a5015.gif)
 
 ## Hi there, I'm Abhishek Kumar Singh 👋
 
