@@ -1,5 +1,4 @@
-![Cool GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw3j-NjU73RCMySuheZlrBcn&ust=1720419216076000&source=images&opi=89978449)
-
+![Cool GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Ffire-loader--2603712270124588%2F&psig=AOvVaw3j-NjU73RCMySuheZlrBcn&ust=1720419216076000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjG5pmjlIcDFQAAAAAdAAAAABAK)
 
 ## Hi there, I'm Abhishek Kumar Singh 👋
 
@@ -24,10 +23,4 @@ I have worked on several projects encompassing:
 - **Phone**: +91 6375775072
 
 ### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-singh)
-- [Twitter](https://twitter.com/abhishekkumar)
-
-### ⚡ Professional Insight
-I am passionate about staying at the forefront of technological advancements, particularly in ML and AI. I enjoy exploring new algorithms and methodologies to solve real-world problems efficiently and effectively.
-
-Feel free to check out my repositories and projects. Let's connect and collaborate on exciting ML and AI projects!
+- [LinkedIn](https://www.linkedin.com/in/abhis
