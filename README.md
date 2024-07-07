@@ -1,22 +1,32 @@
-<h1 align="center">Hi 👋, coders Abhi here ♥ </h1>
-<h3 align="center">LEARNER with PASSION of DEVELOPING 💻 🖐</h3>
- </p>
+![Cool GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Technology/technology_image8.gif?raw=true)
 
-- 🔭 I’m currently working with **JAVA PROJECTS**
+## Hi there, I'm Abhishek Kumar Singh 👋
 
-- 🌱 I’m currently learning **JAVA frameworks**
+### About Me
+I am a Computer Science Engineer with a specialization in Machine Learning (ML) and Artificial Intelligence (AI). My journey in the tech world has led me to work on various exciting projects, particularly in the fields of ML and AI. 
 
-- 🤝 I’m looking for help with **PYTHON DEVELOPER**
+### 🔬 Research and Patents
+- I have completed two patents related to ML and AI and am currently working on one research paper in the same field.
 
-- 💬 Ask me about **c++ ,PYTHON, web-dev,flutter,react-native.**
-  
-- 📫 How to reach me **yadavabhishekkumar41@gmail.com**
+### 🛠️ Projects
+I have worked on several projects encompassing:
+- **Classification Models**: Developing models to categorize and predict data.
+- **Linear Models**: Implementing linear regression and other linear algorithms.
+- **Deep Learning**: Creating and training neural networks for various applications.
+- **Artificial Intelligence**: Building intelligent systems and applications.
 
-- ⚡ Fun fact **computer cant smiles but i can make them laugh**
+### 🌱 Currently Learning
+- Django for web development to integrate ML and AI capabilities into web applications.
 
-<p align="left">
-</p>
+### 📫 Contact Me
+- **Email**: [yadavabhishekkumar41@gmail.com](mailto:yadavabhishekkumar41@gmail.com)
+- **Phone**: +91 6375775072
 
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-singh)
+- [Twitter](https://twitter.com/abhishekkumar)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### ⚡ Professional Insight
+I am passionate about staying at the forefront of technological advancements, particularly in ML and AI. I enjoy exploring new algorithms and methodologies to solve real-world problems efficiently and effectively.
+
+Feel free to check out my repositories and projects. Let's connect and collaborate on exciting ML and AI projects!
