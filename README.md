@@ -19,8 +19,8 @@ I have worked on several projects encompassing:
 - Django for web development to integrate ML and AI capabilities into web applications.
 
 ### 📫 Contact Me
-- **Email**: [yadavabhishekkumar41@gmail.com](mailto:yadavabhishekkumar41@gmail.com)
-- **Phone**: +91 6375775072
+- **Email**: [abhishek31krs@gmail.com](mailto:abhishek31krs@gmail.com)
+
 
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/abhis
